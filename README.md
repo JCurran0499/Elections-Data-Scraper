@@ -1,4 +1,4 @@
-# Elections-Data-Scraper
+## Elections Data Web Scraper
 Web scraper for historical presidential election results by county
 
 ***The web scraper can be found in the [ElectionScraper.py](https://github.com/JCurran0499/Elections-Data-Scraper/blob/main/ElectionScraper.py) script.*** 
