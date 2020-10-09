@@ -1,7 +1,7 @@
 # Elections-Data-Scraper
 Web scraper for historical presidential election results by county
 
-***The web scraper can be found in the ElectionScraper.py script***
+***The web scraper can be found in the [ElectionScraper.py](https://github.com/JCurran0499/Elections-Data-Scraper/blob/main/ElectionScraper.py) script*** \
 
 **Project Description**: This is a web scraper that pulls data from Dave Leip's Atlas of US Presidential Elections. The election_results method pulls the data from the atlas and convert it into a Pandas dataframe. Other methods convert results into xlsx files and text files used in the election visualization program MapChart.
 
