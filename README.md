@@ -8,4 +8,4 @@ This is an independent, personal project, and is not affiliated with the Univers
 John Curran
 
 **Bibliography** \
-Leip, David. Dave Leip's Atlas of U.S. Presidential Elections. http://uselectionatlas.org (date).
+Leip, David. Dave Leip's Atlas of U.S. Presidential Elections. http://uselectionatlas.org (17 September 2020).
